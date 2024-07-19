@@ -32,19 +32,7 @@ The dataset used for this project is sourced from Syarah.com and includes the fo
  - Mileage: Mileage of the used car.
  - Negotiable: Indicates if the price is negotiable (True if the price is 0).
  - Price: Used car price.
-Features
-The features used in the model include:
 
-Type
-Region
-Make
-Gear_Type
-Origin
-Options
-Year
-Engine_Size
-Mileage
-Negotiable
 These features were selected based on their potential impact on the car's price and the availability of data.
 
 ### Model
