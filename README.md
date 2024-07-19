@@ -21,17 +21,17 @@ git clone [https://github.com/nabhp/used-car-price-predictio](https://github.com
 
 The dataset used for this project is sourced from Syarah.com and includes the following features:
 
-Type: Type of used car.
-Region: The region in which the used car was offered for sale.
-Make: The company name.
-Gear_Type: Gear type of the used car.
-Origin: Origin of the used car.
-Options: Options of the used car.
-Year: Manufacturing year.
-Engine_Size: The engine size of the used car.
-Mileage: Mileage of the used car.
-Negotiable: Indicates if the price is negotiable (True if the price is 0).
-Price: Used car price.
+ - Type: Type of used car.
+ - Region: The region in which the used car was offered for sale.
+ - Make: The company name.
+ - Gear_Type: Gear type of the used car.
+ - Origin: Origin of the used car.
+ - Options: Options of the used car.
+ - Year: Manufacturing year.
+ - Engine_Size: The engine size of the used car.
+ - Mileage: Mileage of the used car.
+ - Negotiable: Indicates if the price is negotiable (True if the price is 0).
+ - Price: Used car price.
 Features
 The features used in the model include:
 
