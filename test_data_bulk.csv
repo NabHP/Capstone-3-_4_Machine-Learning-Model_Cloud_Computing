@@ -1,0 +1,11 @@
+Type,Region,Make,Gear_Type,Origin,Options,Year,Engine_Size,Mileage,Price
+Sedan,Riyadh,Toyota,Automatic,Saudi,Full,2018,2.5,45000,85000
+SUV,Jeddah,Nissan,Manual,Gulf Arabic,Semi Full,2017,3.0,60000,90000
+Hatchback,Dammam,Ford,Automatic,Gulf Arabic,Standard,2019,1.8,30000,75000
+Pickup,Khobar,GMC,Manual,Saudi,Full,2016,3.5,70000,100000
+Sedan,Riyadh,Honda,Automatic,Saudi,Semi Full,2020,2.0,20000,90000
+SUV,Jeddah,BMW,Automatic,Gulf Arabic,Standard,2015,3.0,80000,95000
+Hatchback,Dammam,Hyundai,Manual,Saudi,Full,2018,1.6,40000,70000
+Pickup,Khobar,Toyota,Automatic,Gulf Arabic,Semi Full,2017,3.2,65000,105000
+Sedan,Riyadh,Mercedes,Automatic,Saudi,Standard,2016,2.5,50000,120000
+SUV,Jeddah,Lexus,Automatic,Saudi,Full,2019,3.5,30000,110000
